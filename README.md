@@ -1,2 +1,2 @@
 # coles-sales-dashboard
-A Power BI dashboard project analyzing Coles sales performance and store metrics.
+Interactive Power BI dashboard analyzing Coles supermarket sales performance across Australian states.
